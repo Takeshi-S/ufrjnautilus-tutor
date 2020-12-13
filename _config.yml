@@ -17,19 +17,19 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  pt-br
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Tutor Náutico
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Tutor Náutico é um guia para orientar os membros nas principais atividades
+  da equipe.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Bem vindo tripulante, serei seu guia. Arraste para o lado.
 
 # A list of keywords for your blog
 keywords:              []
@@ -51,7 +51,7 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title:             Documentation
+  - title:             Passo a passo
     url:               /docs/
   - title:             About
     url:               /about/
@@ -67,7 +67,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2020. Todos os direitos reservados.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -106,12 +106,12 @@ theme: jekyll-theme-hydejack
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(0, 82, 158)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(8,46,57)
+theme_color:           rgb(2,37,69)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
