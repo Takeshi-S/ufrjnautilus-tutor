@@ -53,6 +53,8 @@ menu:
     url:               /example/
   - title:             Passo a passo
     url:               /docs/
+  - title:             Marketing
+    url:               /mkt/
   - title:             About
     url:               /about/
 
