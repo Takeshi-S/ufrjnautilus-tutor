@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Documentation
+title: Arrumando a casa
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  Fala pessoal, belezinha? Vou procurar ser bem objetivo nos tutoriais, afinal, na maior parte das vezes vocês só precisarão fazer alguns ajustes. 
+
 hide_description: true
 sitemap: false
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
+Fala pessoal, belezinha? Vou procurar ser bem objetivo nos tutoriais, afinal, na maior parte das vezes vocês só precisarão fazer alguns ajustes. Sei como é difícil conciliar as matérias do seu curso com as atribuições na equipe; e, pensando nisso, sempre que eu achar conveniente irei colocar os links que eu achar útil para executar a tarefa. Em um primeiro momento, talvez isso vai lhe parecer prolixo -- pô, 8 linhas acima ele já colocou esse link e está colocando de novo --, no entanto, se você vier sabendo o que precisa procurar achará adequado não precisar procurar links já mencionados em outros tópicos. Ademais, deixarei meu contato no [insta](https://www.instagram.com/takeshi.s_/) caso tenha alguma dúvida relevante que não conste nesse tutorial. 
 
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
+Farei esse passo a passo com carinho, por favor verifique se a sua dúvida não se encontra respondida aqui antes de me enviar mensagem. :)
 {:.note}
 
 
-## Getting started
+## Primeira vez
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
