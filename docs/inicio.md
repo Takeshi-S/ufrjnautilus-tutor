@@ -26,9 +26,13 @@ Há uma opção chamada **meghna-hugo**, clique nela. É aqui que as alteraçõe
 
 ## Adicionando Artigos
 
-Canto superior esquerdo, o Post(en), é onde deve ir para alterar ou adicionar um artigo. Ao clicar nessa opção, os artigos publicados serão dispostos em ordem de publicação. Acima deles há a opção **Create new**, para criar um novo artigo. Ao clicá-la, confirme a opção de _create a new document_. Adicione o título, a data, o autor, as imagens e a metadescrição -- esta é um resumo sobre o assunto do post, ao compartilhar o link do post será essa descrição que aparecerá abaixo do compartilhamento. Sobre as imagens, pede-se para upar uma imagem no formato webp. Esse formato de imagem irá otimizar o carregamento do site, otimizando a compressão de imagens preservando uma qualidade melhor que o formato png e menos pesada que o jpg. Existem sites que convertem a imagem para o formato webp, por exemplo [para converter jpg em webp][convertio].
+Canto superior esquerdo, o Post(en), é onde deve ir para alterar ou adicionar um artigo. Ao clicar nessa opção, os artigos publicados serão dispostos em ordem de publicação. Acima deles há a opção **Create new**, para criar um novo artigo. Ao clicá-la, confirme a opção de _create a new document_. Adicione o título, a data, o autor, as imagens e a metadescrição -- esta é um resumo sobre o assunto do post, ao compartilhar o link do post será essa descrição que aparecerá abaixo do compartilhamento.
+
+Sobre as imagens, pede-se para upar uma imagem no formato webp. Esse formato de imagem irá otimizar o carregamento do site, otimizando a compressão de imagens preservando uma qualidade melhor que o formato png e menos pesada que o jpg. Existem sites que convertem a imagem para o formato webp, por exemplo [para converter jpg em webp][convertio].
 
 [convertio]: https://convertio.co/pt/jpg-webp/
+
+Certo, entendi. Mas por que terei de upar dois formatos de imagens? Porque esse é um formato novo, nem todos os navegadores o aceitam, por isso vamos upar também um formato mais popular.
 
 ### Adicionando autor
 
