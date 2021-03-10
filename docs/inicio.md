@@ -9,8 +9,6 @@ sitemap: false
 
 O [Forestry](#entrar) basicamente permite o gerenciamento de arquivos estáticos sem a necessidade de conhecimentos técnicos. Ideal para forcamos mais em nossa parte criativa e técnica.
 
-0. this unordered seed list will be replaced by toc as unordered list
-   {:toc}
 
 ## Entrar
 
