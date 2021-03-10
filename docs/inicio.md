@@ -19,13 +19,13 @@ Primeiramente, certifique-se de que está logado no github do site ou tenha a se
 Selecione a opção ***log in with GitHub***.
 Prontinho, você está na página inicial. 
 
-Há uma opção chamada **meghna-hugo**, clique nela. É aqui que as alterações no site irão ocorrer.  
+Há uma opção chamada **meghna-hugo**, clique nela. É aqui que as alterações no site irão ocorrer. O que irá se mais frequente para se alterar/adicionar no site são os [artigos](#adicionando-artigos), os [autores](#adicionando-autor) e a [galeria de fotos](#galeria).  
 
 [forestry]: https://app.forestry.io/
 [dtn]: https://assets.forestry.io/import-to-forestryK.svg
 
 
-## Existing sites
+## Adicionando Artigos
 If you have an existing site that you'd like to upgrade to Hydejack you can install the theme via bundler.
 Add the following to your `Gemfile`:
 
@@ -58,7 +58,7 @@ but it pays off to check out the example config file in the Starter Kit to see w
 
 You can now jump to [running locally](#running-locally).
 
-### Troubleshooting
+### Adicionando um autor
 If your existing site combines theme files with your content (as did previous verisons of Hydejack/PRO),
 make sure to delete the following folders:
 
@@ -71,7 +71,7 @@ The `assets` folder most likely includes theme files as well as your personal/co
 Make sure to only delete files that belong to the old theme!
 
 
-## GitHub Pages
+## Galeria
 If you want to build your site on [GitHub Pages][ghp], check out the [`gh-pages` branch][gpb] in the Hydejack Starter Kit repo.
 For **PRO users**, find the `starter-kit-gh-pages` folder in the downloaded zip.
 
