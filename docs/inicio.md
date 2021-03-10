@@ -58,7 +58,7 @@ but it pays off to check out the example config file in the Starter Kit to see w
 
 You can now jump to [running locally](#running-locally).
 
-### Adicionando um autor
+### Adicionando autor
 If your existing site combines theme files with your content (as did previous verisons of Hydejack/PRO),
 make sure to delete the following folders:
 
