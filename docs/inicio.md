@@ -13,24 +13,14 @@ O [Forestry](#entrar) basicamente permite o gerenciamento de arquivos estáticos
 {:toc}
 
 ## Entrar
-For new sites, the best way to get started with Hydejack is via the Starter Kit. 
-It comes with a documented config file and example content that gets you started quickly.
 
-If you have a GitHub account, fork the [Hydejack Starter Kit][hsc] repository. 
-Otherwise [download the Starter Kit][src] and unzip them somewhere on your machine.
+Primeiramente, certifique-se de que está logado no github do site ou tenha a senha para acessá-lo. Então vá para https://app.forestry.io/ ou clique aqui: [![Entrar no forestry][dtn]][forestry]
 
-If you bought the __PRO Version__ of Hydejack, use the contents of the `starter-kit` folder instead.
+Selecione a opção ***log in with GitHub***.
+Prontinho, você está na página inicial. 
 
-In addition to the docs here, you can follow the quick start guide in the Starter Kit.
-{:.note}
+Há uma opção chamada **meghna-hugo**, clique nela. É aqui que as alterações no site irão ocorrer.  
 
-You can now jump to [running locally](#running-locally).
-
-Clique aqui: [![Entrar no forestry][dtn]][forestry]{:.no-mark-external}.
-{:.note}
-
-[hsc]: https://github.com/hydecorp/hydejack-starter-kit
-[src]: https://github.com/hydecorp/hydejack-starter-kit/archive/v9.0.5.zip
 [forestry]: https://app.forestry.io/
 [dtn]: https://assets.forestry.io/import-to-forestryK.svg
 
