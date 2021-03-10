@@ -2,19 +2,17 @@
 layout: page
 title: Inicio
 description: >
-  How you install Hydejack depends on whether you start a new site,
-  or change the theme of an existing site.
+  O Forestry basicamente permite o gerenciamento de arquivos estáticos sem a necessidade de conhecimentos técnicos. Ideal para forcamos mais em nossa parte criativa e técnica. 
 hide_description: true
 sitemap: false
 ---
 
-How you install Hydejack depends on whether you [start a new site](#new-sites), 
-or change the theme of [an existing site](#existing-sites).
+O [Forestry](#entrar) basicamente permite o gerenciamento de arquivos estáticos sem a necessidade de conhecimentos técnicos. Ideal para forcamos mais em nossa parte criativa e técnica. 
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## New sites
+## Entrar
 For new sites, the best way to get started with Hydejack is via the Starter Kit. 
 It comes with a documented config file and example content that gets you started quickly.
 
@@ -28,13 +26,13 @@ In addition to the docs here, you can follow the quick start guide in the Starte
 
 You can now jump to [running locally](#running-locally).
 
-You can now also [![Deploy to Netlify][dtn]][nfy]{:.no-mark-external} directly.
+Clique aqui: [![Entrar no forestry][dtn]][forestry]{:.no-mark-external}.
 {:.note}
 
 [hsc]: https://github.com/hydecorp/hydejack-starter-kit
 [src]: https://github.com/hydecorp/hydejack-starter-kit/archive/v9.0.5.zip
-[nfy]: https://app.netlify.com/start/deploy?repository=https://github.com/hydecorp/hydejack-starter-kit
-[dtn]: https://www.netlify.com/img/deploy/button.svg
+[forestry]: https://app.forestry.io/
+[dtn]: https://assets.forestry.io/import-to-forestryK.svg
 
 
 ## Existing sites
